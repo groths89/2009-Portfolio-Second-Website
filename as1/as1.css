@@ -1,0 +1,28 @@
+.text1 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #633;
+}
+.bg1 {
+	background-color: #C96;
+}
+.border {
+	border: medium groove #633;
+}
+.align-center {
+	text-align: center;
+}
+.align-left {
+	text-align: left;
+}
+.box {
+	margin: 5px;
+	padding: 5px;
+}
+.bg2 {
+	background-color: #CC6;
+}
+.bg3 {
+	background-color: #096;
+}
